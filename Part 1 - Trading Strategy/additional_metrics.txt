@@ -1,0 +1,4 @@
+Pearson correlation coefficient: -0.4700
+R-squared: 0.2209
+Adjusted R-squared: 0.2194
+P-value for Hurst coefficient: 0.0000
