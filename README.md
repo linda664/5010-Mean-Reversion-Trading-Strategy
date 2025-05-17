@@ -1,4 +1,4 @@
-# 5010 Mean Reversion Trading Strategy
+# Mean Reversion Trading Strategy for Stocks with Multi-Signal Integration and Predictive Modeling
 
 ## Overview
 
